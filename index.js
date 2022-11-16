@@ -33,7 +33,7 @@ export default {
 					<img src="` + img + `">
 				</p>
 				<footer>
-					<p>Displayed Image Size: ` + size + ` pixels. <a href="https://random.responsiveimages.io/">Source</a></p>
+					<p>Displayed Image Size: "` + size + ` pixels. <a href="https://random.responsiveimages.io/">Source</a></p>
 				</footer>
 			</body>`
 
